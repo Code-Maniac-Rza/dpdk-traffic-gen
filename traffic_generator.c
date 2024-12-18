@@ -14,7 +14,7 @@
 static volatile int keep_running = 1;
 static uint64_t total_packets_sent[MAX_PORTS] = {0};
 
-#define CHECK_ERROR(condition, message) \
+#define CHECK_ERROR(condition, message)  \
     if (condition) { \
         rte_exit(EXIT_FAILURE, message "\n"); \
     }
