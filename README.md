@@ -31,7 +31,7 @@ Follow the [official DPDK guide](https://doc.dpdk.org/guides/linux_gsg/index.htm
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/dpdk-traffic-generator.git
+git clone https://github.com/Code-Maniac-Rza/dpdk-traffic-gen.git
 cd dpdk-traffic-generator
 ```
 
